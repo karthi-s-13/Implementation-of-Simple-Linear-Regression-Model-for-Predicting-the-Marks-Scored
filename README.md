@@ -89,7 +89,35 @@ print("Root Mean Square Error: {:.2f}".format(sq))
 
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+### DATASTE
+![Screenshot 2025-05-02 200538](https://github.com/user-attachments/assets/9942f654-9267-44d3-bc91-2e5feb73218f)
+
+### X Value
+![Screenshot 2025-05-02 200549](https://github.com/user-attachments/assets/20eb3d65-c9f6-42c0-8ea4-58d2d348efc6)
+
+### Y Value
+![Screenshot 2025-05-02 200559](https://github.com/user-attachments/assets/63bd5bcf-5096-4f6e-bc72-953cc0b62eeb)
+
+### Predict Value
+![Screenshot 2025-05-02 200611](https://github.com/user-attachments/assets/bfb7fa00-4aba-4c1e-87e7-81eff6258ca1)
+
+### Target Test Value
+![Screenshot 2025-05-02 200617](https://github.com/user-attachments/assets/aeee8897-bc26-4d59-b860-ad98d1e81bd0)
+
+### Training VS Prediction Value
+![Screenshot 2025-05-02 200636](https://github.com/user-attachments/assets/c73c728c-4e82-4210-b146-835f0e2eebbc)
+
+### Test Value VS Prediction Value
+![Screenshot 2025-05-02 200648](https://github.com/user-attachments/assets/796429bd-29eb-4212-8fcd-0585cad63ad0)
+
+### Mean Square Error
+![Screenshot 2025-05-02 200659](https://github.com/user-attachments/assets/15a76f9a-c7b7-41bc-9836-699dea17abb6)
+
+### Mean Absolute Error
+![Screenshot 2025-05-02 200706](https://github.com/user-attachments/assets/6ed82f1c-2c5c-4960-b3f5-8a20198c4d68)
+
+### Root Mean Square Error
+![Screenshot 2025-05-02 200712](https://github.com/user-attachments/assets/e91974d3-1cb8-4988-b22f-38fe688e5e16)
 
 
 ## Result:
