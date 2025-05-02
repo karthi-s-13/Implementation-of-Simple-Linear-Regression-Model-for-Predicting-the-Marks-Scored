@@ -104,10 +104,10 @@ print("Root Mean Square Error: {:.2f}".format(sq))
 ### Target Test Value
 ![Screenshot 2025-05-02 200617](https://github.com/user-attachments/assets/aeee8897-bc26-4d59-b860-ad98d1e81bd0)
 
-### Training VS Prediction Value
+### Training Set
 ![Screenshot 2025-05-02 200636](https://github.com/user-attachments/assets/c73c728c-4e82-4210-b146-835f0e2eebbc)
 
-### Test Value VS Prediction Value
+### Testing Set
 ![Screenshot 2025-05-02 200648](https://github.com/user-attachments/assets/796429bd-29eb-4212-8fcd-0585cad63ad0)
 
 ### Mean Square Error
